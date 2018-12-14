@@ -1,3 +1,13 @@
+# 帝焰搬运的脚本
+
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+[![GitHub stars](https://img.shields.io/github/stars/li1220/diyan.svg?style=popout&label=Stars)](https://github.com/li1220/diyan/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/li1220/diyan.svg?style=popout&label=Fork)](https://github.com/li1220/diyan/fork)
+## 脚本索引
+* [***代理相关***](#代理相关)
+  * [ssrmu.sh](#ssrmush)
+  
+  ## 代理相关
 ## ssrmu.sh
 
 - 脚本说明: ShadowsocksR 一键安装管理脚本，支持流量控制
