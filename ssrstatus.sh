@@ -72,8 +72,8 @@ set_config_port(){
 }
 set_config_password(){
 	echo "请输入 ShadowsocksR 账号密码"
-	read -e -p "(默认: doub.io):" passwd
-	[[ -z "${passwd}" ]] && passwd="doub.io"
+	read -e -p "(默认: diyan.xyz):" passwd
+	[[ -z "${passwd}" ]] && passwd="diyan.xyz"
 	echo && echo -e "	密码 : ${Red_font_prefix}${passwd}${Font_color_suffix}" && echo
 }
 set_config_method(){
@@ -230,7 +230,7 @@ set_config_location(){
 }
 Set_server(){
 	echo -e "请输入 SSRStatus 网站要设置的 域名[server]
-默认为本机IP为域名，例如输入: toyoo.ml，如果要使用本机IP，请留空直接回车"
+默认为本机IP为域名，例如输入: diyan.xyz，如果要使用本机IP，请留空直接回车"
 	read -e -p "(默认: 本机IP):" server_s
 	[[ -z "$server_s" ]] && server_s=""
 	
