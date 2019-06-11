@@ -12,7 +12,7 @@
 
 - 脚本说明: ShadowsocksR 一键安装管理脚本，支持流量控制
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://cq.diyan.xyz
+- 使用方法: http://cq.diyan.xyz
 - 项目地址: https://github.com/li1220/shadowsocksr
 
 #### 脚本特点:
